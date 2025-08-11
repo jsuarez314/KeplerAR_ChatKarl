@@ -89,9 +89,9 @@ template = """
     correctamente el fenómeno. Debes ser algo estricto en tu evaluación, ya que este conocimiento es fundamental tanto para ti como para la humanidad.
 
     El formato de la evaluación será el siguiente:
-    Evaluación: (Puntaje obtenido)/100
+    
+    Evaluación: (Puntaje obtenido)/100\n
     (Explicación del puntaje, no más extenso que un parrafo)
-
     No agreges más información adicional.
 
     Ejemplos de evaluación de respuestas:
